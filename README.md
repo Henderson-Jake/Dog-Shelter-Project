@@ -7,6 +7,4 @@ In this project, you will need to code a program to control the dogs that are in
 
 • Close the shelter (clear all the dogs' weights)
 
-• Show a report based on the classification (https://www.coastalpet.com/sizing-guide/)
-
 Your program has to manage two global variables: the array containing the dogs' weight as gWeight and the gShelterSize that will be used to know how many dogs are in the shelter. Additionally, it will use a single Scanner as a global constant named gIN and a global constant of gMAX_DOGS equal to 100 for the maximum number of dogs allowed in the shelter.
